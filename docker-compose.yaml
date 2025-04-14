@@ -10,7 +10,7 @@ services:
     networks:
       - mynet
   backend:
-    image: gopikondaji/newbackend:3
+    image: gopikondaji/newbackend:4
     ports:
       - "8000:8000"
     depends_on:
