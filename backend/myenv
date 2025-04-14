@@ -1,0 +1,5 @@
+MONGO_URI= mongodb://mongodb:27017/mydb
+GMAIL_USERNAME= notest@gmail.com 
+GMAIL_PASSWORD=password
+PORT=8000
+JWT_SECRET=thisisasecretkey
