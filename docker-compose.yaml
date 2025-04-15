@@ -2,7 +2,7 @@ version: "3.9"
 
 services:
   frontend:
-    image: gopikondaji/newfrontend:6
+    image: gopikondaji/newfrontend:76
     ports:
       - "3000:3000"
     depends_on:
